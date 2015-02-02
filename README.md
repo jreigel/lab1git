@@ -1,3 +1,4 @@
 # lab1git
 Justin Reigel Zach Moore
-New Line
+
+Edited by Zach Moore 1-February-2015
